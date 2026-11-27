@@ -1,0 +1,11 @@
+{
+  "key.autoparkour.add": "Add checkpoint (block you look at)",
+  "key.autoparkour.go": "Go to checkpoints / stop",
+  "key.autoparkour.cp_clear": "Clear checkpoints",
+  "key.autoparkour.record": "Record / save run",
+  "key.autoparkour.play": "Play best run / stop",
+  "key.autoparkour.clear": "Delete all runs for this map",
+  "category.autoparkour.main": "Auto Parkour",
+  "key.autoparkour.debug": "Debug view on/off",
+  "key.autoparkour.gui": "Open GUI"
+}
